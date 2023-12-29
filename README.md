@@ -1,4 +1,4 @@
-# ReisDemo
+# RedisDemo
 
 ## 短信登录
 + Redis的共享session应用
